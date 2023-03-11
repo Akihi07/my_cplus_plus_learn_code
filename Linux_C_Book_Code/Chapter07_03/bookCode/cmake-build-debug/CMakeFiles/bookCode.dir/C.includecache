@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/11071/OneDrive/CPlusWorkSpace/Linux_C_Book_Code/Chapter07_03/bookCode/main.c
+stdio.h
+-
+math.h
+-
+

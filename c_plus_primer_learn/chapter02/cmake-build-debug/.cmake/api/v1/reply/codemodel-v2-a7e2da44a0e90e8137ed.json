@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chapter02",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2_5_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2_5_3-Debug-409b62be6e8661cf8380.json",
+					"name" : "2_5_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chapter02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chapter02-Debug-d101de6f827de423b5a9.json",
+					"name" : "chapter02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "section02_06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-section02_06-Debug-6b373ac4f540993f7a1b.json",
+					"name" : "section02_06",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "G:/11071/OneDrive/CPlusWorkSpace/c_plus_primer_learn/chapter02/cmake-build-debug",
+		"source" : "G:/11071/OneDrive/CPlusWorkSpace/c_plus_primer_learn/chapter02"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

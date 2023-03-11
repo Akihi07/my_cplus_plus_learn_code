@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/11071/OneDrive/CPlusWorkSpace/Linux_C_Book_Code/Chapter24_04/bookCode/ret_ptr.c
+string.h
+-
+stdlib.h
+-
+ret_ptr.h
+D:/11071/OneDrive/CPlusWorkSpace/Linux_C_Book_Code/Chapter24_04/bookCode/ret_ptr.h
+
+D:/11071/OneDrive/CPlusWorkSpace/Linux_C_Book_Code/Chapter24_04/bookCode/ret_ptr.h
+

@@ -1,0 +1,27 @@
+# ninja log v5
+2	299	6988662448657341	CMakeFiles/read_string.dir/section_03_02/read_string.cpp.obj	4bf0ed34d5feb0b2
+2	182	6992959446329246	CMakeFiles/array_learn.dir/section_03_05/arrays_learn.cpp.obj	b9e001a8946d5a97
+300	373	6988662449374940	read_string.exe	6a11dcd211f9b0da
+183	243	6992959446917279	array_learn.exe	305c97344a8c056a
+1	178	6992959948633005	CMakeFiles/array_learn.dir/section_03_05/arrays_learn.cpp.obj	b9e001a8946d5a97
+180	245	6992959949280837	array_learn.exe	305c97344a8c056a
+2	180	6992960130457327	CMakeFiles/array_learn.dir/section_03_05/arrays_learn.cpp.obj	b9e001a8946d5a97
+180	242	6992960131061067	array_learn.exe	305c97344a8c056a
+2	178	6992960235046574	CMakeFiles/array_learn.dir/section_03_05/arrays_learn.cpp.obj	b9e001a8946d5a97
+178	243	6992960235684438	array_learn.exe	305c97344a8c056a
+2	179	6992969411902142	CMakeFiles/array_learn.dir/section_03_05/arrays_learn.cpp.obj	b9e001a8946d5a97
+179	243	6992969412530034	array_learn.exe	305c97344a8c056a
+2	178	6992969713934179	CMakeFiles/array_learn.dir/section_03_05/arrays_learn.cpp.obj	b9e001a8946d5a97
+178	245	6992969714591967	array_learn.exe	305c97344a8c056a
+2	182	6992969851060759	CMakeFiles/array_learn.dir/section_03_05/arrays_learn.cpp.obj	b9e001a8946d5a97
+183	247	6992969851708586	array_learn.exe	305c97344a8c056a
+4	185	6992969903921374	CMakeFiles/array_learn.dir/section_03_05/arrays_learn.cpp.obj	b9e001a8946d5a97
+186	251	6992969904559235	array_learn.exe	305c97344a8c056a
+2	181	6992970145595337	CMakeFiles/array_learn.dir/section_03_05/arrays_learn.cpp.obj	b9e001a8946d5a97
+181	245	6992970146238643	array_learn.exe	305c97344a8c056a
+1	194	6992978733119299	CMakeFiles/array_learn.dir/section_03_05/arrays_learn.cpp.obj	b9e001a8946d5a97
+194	269	6992978733846864	array_learn.exe	305c97344a8c056a
+3	183	6992979140726774	CMakeFiles/array_learn.dir/section_03_05/arrays_learn.cpp.obj	b9e001a8946d5a97
+183	248	6992979141394545	array_learn.exe	305c97344a8c056a
+2	179	6992980638711014	CMakeFiles/array_learn.dir/section_03_05/arrays_learn.cpp.obj	b9e001a8946d5a97
+180	247	6992980639368802	array_learn.exe	305c97344a8c056a

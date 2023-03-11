@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\bookCode.dir/objects.a
+D:\11071\ONEDRI~1.CN\Root\mingw64\bin\ar.exe cr CMakeFiles\bookCode.dir/objects.a @CMakeFiles\bookCode.dir\objects1.rsp
+D:\11071\ONEDRI~1.CN\Root\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\bookCode.dir/objects.a -Wl,--no-whole-archive -o bookCode.exe -Wl,--out-implib,libbookCode.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bookCode.dir\linklibs.rsp
