@@ -1,4 +1,6 @@
-# chome
-This is the workspace of c language
+# Repo 说明
+This is the workspace for c and c++ learning.
 
-And the code is about the learning of Linux C Book
+## Reference Book
+1. Linux C Book -> Linux_C_Book_Code
+2. C++ primer -> c_plus_primer_learn
